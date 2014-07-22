@@ -44,6 +44,8 @@ The set of variables that were estimated (and kept for this assignment) from the
 * mean(): Mean value
 * std(): Standard deviation
 
+
+
 Additional vectors obtained by averaging the signals in a signal window sample. These are used on the angle() variable:
 
 * gravityMean
