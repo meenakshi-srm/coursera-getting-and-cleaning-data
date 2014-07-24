@@ -36,6 +36,7 @@ for (currentActivityLabel in activityLabels$V2) {
   currentActivity <- currentActivity + 1
 }
 
+
 allData$activity <- as.factor(allData$activity)
 allData$subject <- as.factor(allData$subject)
 
